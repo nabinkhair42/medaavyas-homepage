@@ -47,18 +47,15 @@ To get a local copy of the project up and running, follow these steps:
    ```bash
    git clone https://github.com/nabinkhair42/medaavyas-homepage.git
 2. **Navigate to the project directory:**
-```
-bash
+```bash
 cd medaavyas-homepage
 ```
 3. **Install Dependencies
-```
-bash
+```bash
 npm install
 ```
 4. **Running the Development Server:**
-   ```
-   bash
+   ```bash
    npm run dev
    ```
 ![image](https://github.com/user-attachments/assets/ca821001-e01d-4b97-b7a5-55f398ecdcac)
